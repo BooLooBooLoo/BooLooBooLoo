@@ -1,6 +1,6 @@
 # Hi, How are you doing ?
 ## 💫 About Me:
-🔭 I’m currently working on a game launcher<br>🤝 I’m looking for help with finding new and fun ideas<br>🌱 I’m currently learning Web development<br>💬 Ask me about my projects and myself<br>⚡ Fun fact :<br> - I would like to work in AI someday<br> - I began my programming journey with RPG Maker XP<br> - I'm a Python addict...
+🔭 I’m currently working on a game launcher<br>🤝 I’m looking for help with finding new and fun ideas<br>🌱 I’m currently learning Web development<br>💬 You're welcome to ask me about my projects and myself<br>⚡ Fun fact :<br> - I would like to work in AI someday<br> - I began my programming journey with RPG Maker XP<br> - I'm a Python addict...
 
 
 ## 🌐 Socials:
